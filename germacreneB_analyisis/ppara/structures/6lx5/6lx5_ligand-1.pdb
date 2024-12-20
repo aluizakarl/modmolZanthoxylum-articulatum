@@ -1,0 +1,76 @@
+TITLE     6lx5_ligand_1
+REMARK   4 6lx5 COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   60.585  101.350   61.745  90.00 100.73  90.00 P 21          1
+HETATM    1 CL1  C5F A 503      10.167   5.711 -13.329  1.00 58.76          Cl  
+HETATM    2 CL2  C5F A 503       9.971   8.800 -13.548  1.00 49.53          Cl  
+HETATM    3  O03 C5F A 503       9.796  12.264  -7.840  1.00 49.05           O  
+HETATM    4  O04 C5F A 503      10.054  13.697  -5.646  1.00 64.53           O1-
+HETATM    5  O05 C5F A 503       9.985  15.615  -6.705  1.00 71.19           O  
+HETATM    6  C06 C5F A 503      11.102   7.527 -11.362  1.00 38.55           C  
+HETATM    7  C07 C5F A 503      10.707   7.339 -12.828  1.00 47.41           C  
+HETATM    8  C08 C5F A 503      12.182   7.430 -12.447  1.00 39.52           C  
+HETATM    9  C09 C5F A 503      10.750   8.701 -10.433  1.00 38.65           C  
+HETATM   10  C10 C5F A 503      10.022   8.523  -9.097  1.00 37.06           C  
+HETATM   11  C11 C5F A 503      11.154  10.099 -10.892  1.00 41.23           C  
+HETATM   12  C12 C5F A 503       9.707   9.754  -8.235  1.00 40.18           C  
+HETATM   13  C13 C5F A 503      10.835  11.319 -10.031  1.00 42.98           C  
+HETATM   14  C14 C5F A 503      10.115  11.164  -8.690  1.00 44.61           C  
+HETATM   15  C15 C5F A 503      10.209  13.618  -8.072  1.00 55.66           C  
+HETATM   16  C16 C5F A 503       9.268  14.290  -9.103  1.00 52.02           C  
+HETATM   17  C17 C5F A 503      11.698  13.861  -8.444  1.00 52.99           C  
+HETATM   18  C18 C5F A 503      10.067  14.354  -6.728  1.00 58.90           C  
+HETATM   19 HC06 C5F A 503      11.020   6.582 -10.825  1.00 38.55           H  
+HETATM   20 H081 C5F A 503      12.406   6.366 -12.372  1.00 39.52           H  
+HETATM   21 H082 C5F A 503      12.341   8.493 -12.627  1.00 39.52           H  
+HETATM   22 HC10 C5F A 503       9.734   7.536  -8.767  1.00 37.06           H  
+HETATM   23 HC11 C5F A 503      11.669  10.231 -11.832  1.00 41.23           H  
+HETATM   24 HC12 C5F A 503       9.191   9.636  -7.293  1.00 40.18           H  
+HETATM   25 HC13 C5F A 503      11.118  12.306 -10.367  1.00 42.98           H  
+HETATM   26 H161 C5F A 503       9.589  15.318  -9.273  1.00 52.02           H  
+HETATM   27 H162 C5F A 503       9.304  13.738 -10.042  1.00 52.02           H  
+HETATM   28 H163 C5F A 503       8.248  14.287  -8.720  1.00 52.02           H  
+HETATM   29 H171 C5F A 503      11.867  14.928  -8.590  1.00 52.99           H  
+HETATM   30 H172 C5F A 503      12.338  13.499  -7.639  1.00 52.99           H  
+HETATM   31 H173 C5F A 503      11.935  13.327  -9.364  1.00 52.99           H  
+CONECT    1    7
+CONECT    2    7
+CONECT    3   14   15
+CONECT    4   18
+CONECT    5   18
+CONECT    5   18
+CONECT    6    7    8    9   19
+CONECT    7    1    2    6    8
+CONECT    8    6    7   20   21
+CONECT    9    6   10   11
+CONECT    9   10
+CONECT   10    9   12   22
+CONECT   10    9
+CONECT   11    9   13   23
+CONECT   11   13
+CONECT   12   10   14   24
+CONECT   12   14
+CONECT   13   11   14   25
+CONECT   13   11
+CONECT   14    3   12   13
+CONECT   14   12
+CONECT   15    3   16   17   18
+CONECT   16   15   26   27   28
+CONECT   17   15   29   30   31
+CONECT   18    4    5   15
+CONECT   18    5
+CONECT   19    6
+CONECT   20    8
+CONECT   21    8
+CONECT   22   10
+CONECT   23   11
+CONECT   24   12
+CONECT   25   13
+CONECT   26   16
+CONECT   27   16
+CONECT   28   16
+CONECT   29   17
+CONECT   30   17
+CONECT   31   17
+END   

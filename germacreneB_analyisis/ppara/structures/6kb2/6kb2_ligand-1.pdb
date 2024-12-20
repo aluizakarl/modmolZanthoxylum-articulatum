@@ -1,0 +1,88 @@
+TITLE     6kb2_ligand-1
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   45.164   62.681   53.667  90.00 105.56  90.00 P 1 21 1      2
+HETATM    1  CAA WY1 A 502      10.855   6.848 -13.221  1.00 44.96      C    C  
+HETATM    2  CAB WY1 A 502      13.858   6.818 -13.315  1.00 46.35      C    C  
+HETATM    3  CAF WY1 A 502      11.714  10.487 -12.576  1.00 44.35      C    C  
+HETATM    4  CAG WY1 A 502      11.009   9.310 -12.771  1.00 42.41      C    C  
+HETATM    5  CAH WY1 A 502      13.098  10.475 -12.622  1.00 43.17      C    C  
+HETATM    6  CAJ WY1 A 502      20.702  10.309  -9.491  1.00 54.17      C    C  
+HETATM    7  CAO WY1 A 502      22.210  10.069  -9.596  1.00 62.17      C    C  
+HETATM    8  CAP WY1 A 502      11.678   8.118 -13.011  1.00 42.70      C    C  
+HETATM    9  CAR WY1 A 502      13.067   8.105 -13.059  1.00 42.34      C    C  
+HETATM   10  CAT WY1 A 502      13.764   9.281 -12.863  1.00 40.09      C    C  
+HETATM   11  NAM WY1 A 502      15.207   9.242 -12.915  1.00 39.13      C    N  
+HETATM   12  OAC WY1 A 502      22.708   9.686 -10.690  1.00 56.47      C    O  
+HETATM   13  OAD WY1 A 502      22.952  10.246  -8.591  1.00 75.11      C    O1-
+HETATM   14  SAN WY1 A 502      19.918   9.743 -11.027  1.00 51.43      C    S  
+HETATM   15 CL6  WY1 A 502      15.598  10.572  -7.915  1.00 98.94      C   Cl  
+HETATM   16  N1  WY1 A 502      17.588  10.111  -9.647  1.00 45.16      C    N  
+HETATM   17  C2  WY1 A 502      18.120   9.796 -10.843  1.00 50.91      C    C  
+HETATM   18  N3  WY1 A 502      17.330   9.517 -11.900  1.00 46.64      C    N  
+HETATM   19  C4  WY1 A 502      16.022   9.551 -11.761  1.00 43.41      C    C  
+HETATM   20  C5  WY1 A 502      15.472   9.867 -10.557  1.00 44.89      C    C  
+HETATM   21  C6  WY1 A 502      16.279  10.147  -9.506  1.00 46.62      C    C  
+HETATM   22 HAA1 WY1 A 502      11.524   6.006 -13.396  1.00 44.96           H  
+HETATM   23 HAA2 WY1 A 502      10.252   6.654 -12.334  1.00 44.96           H  
+HETATM   24 HAA3 WY1 A 502      10.200   6.977 -14.083  1.00 44.96           H  
+HETATM   25 HAB1 WY1 A 502      14.925   7.040 -13.310  1.00 46.35           H  
+HETATM   26 HAB2 WY1 A 502      13.635   6.092 -12.533  1.00 46.35           H  
+HETATM   27 HAB3 WY1 A 502      13.577   6.405 -14.284  1.00 46.35           H  
+HETATM   28 HCAF WY1 A 502      11.184  11.409 -12.389  1.00 44.35           H  
+HETATM   29 HCAG WY1 A 502       9.930   9.315 -12.737  1.00 42.41           H  
+HETATM   30 HCAH WY1 A 502      13.651  11.390 -12.471  1.00 43.17           H  
+HETATM   31 HAJ1 WY1 A 502      20.512  11.374  -9.358  1.00 54.17           H  
+HETATM   32 HAJ2 WY1 A 502      20.302   9.743  -8.649  1.00 54.17           H  
+HETATM   33 HNAM WY1 A 502      15.675   8.994 -13.775  1.00 39.13           H  
+HETATM   34  HC5 WY1 A 502      14.398   9.893 -10.444  1.00 44.89           H  
+CONECT    1    8   22   23   24
+CONECT    2    9   25   26   27
+CONECT    3    4    5   28
+CONECT    3    5
+CONECT    4    3    8   29
+CONECT    4    8
+CONECT    5    3   10   30
+CONECT    5    3
+CONECT    6    7   14   31   32
+CONECT    7    6   12   13
+CONECT    7   12
+CONECT    8    1    4    9
+CONECT    8    4
+CONECT    9    2    8   10
+CONECT    9   10
+CONECT   10    5    9   11
+CONECT   10    9
+CONECT   11   10   19   33
+CONECT   12    7
+CONECT   12    7
+CONECT   13    7
+CONECT   14    6   17
+CONECT   15   21
+CONECT   16   17   21
+CONECT   16   17
+CONECT   17   14   16   18
+CONECT   17   16
+CONECT   18   17   19
+CONECT   18   19
+CONECT   19   11   18   20
+CONECT   19   18
+CONECT   20   19   21   34
+CONECT   20   21
+CONECT   21   15   16   20
+CONECT   21   20
+CONECT   22    1
+CONECT   23    1
+CONECT   24    1
+CONECT   25    2
+CONECT   26    2
+CONECT   27    2
+CONECT   28    3
+CONECT   29    4
+CONECT   30    5
+CONECT   31    6
+CONECT   32    6
+CONECT   33   11
+CONECT   34   20
+END   

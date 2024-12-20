@@ -1,0 +1,150 @@
+TITLE     2pnu_ligand
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   53.650   66.360   70.780  90.00  90.00  90.00 P 21 21 21    0
+HETATM    1  C01 ENM A 302      26.443   6.636   4.455  1.00 15.74      C    C  
+HETATM    2  O01 ENM A 302      31.600  -0.955   4.499  1.00 21.94      C    O  
+HETATM    3  C02 ENM A 302      25.081   6.342   3.812  1.00 17.67      C    C  
+HETATM    4  O02 ENM A 302      24.494   7.212   3.167  1.00 18.05      C    O  
+HETATM    5  C03 ENM A 302      24.476   4.941   3.974  1.00 14.84      C    C  
+HETATM    6  O03 ENM A 302      30.263   0.669   8.194  1.00 16.08      C    O  
+HETATM    7  C04 ENM A 302      25.548   3.866   3.686  1.00 15.30      C    C  
+HETATM    8  C05 ENM A 302      26.879   4.085   4.489  1.00 14.26      C    C  
+HETATM    9  C06 ENM A 302      27.447   5.496   4.150  1.00 13.59      C    C  
+HETATM   10  C07 ENM A 302      24.971   2.451   3.912  1.00 14.92      C    C  
+HETATM   11  C08 ENM A 302      25.990   1.386   3.469  1.00 15.72      C    C  
+HETATM   12  C09 ENM A 302      27.337   1.544   4.224  1.00 15.66      C    C  
+HETATM   13  C10 ENM A 302      27.905   2.997   4.033  1.00 14.73      C    C  
+HETATM   14  C11 ENM A 302      28.390   0.552   3.691  1.00 16.83      C    C  
+HETATM   15  C12 ENM A 302      29.726   0.656   4.430  1.00 16.94      C    C  
+HETATM   16  C13 ENM A 302      30.310   2.066   4.179  1.00 16.27      C    C  
+HETATM   17  C14 ENM A 302      29.310   3.147   4.702  1.00 15.06      C    C  
+HETATM   18  C15 ENM A 302      28.041  -0.937   3.734  1.00 17.62      C    C  
+HETATM   19  C16 ENM A 302      29.420  -1.620   3.542  1.00 19.32      C    C  
+HETATM   20  C17 ENM A 302      30.472  -0.493   3.745  1.00 18.54      C    C  
+HETATM   21  C18 ENM A 302      26.625   3.977   6.018  1.00 15.05      C    C  
+HETATM   22  C19 ENM A 302      29.531   0.346   5.959  1.00 16.93      C    C  
+HETATM   23  C20 ENM A 302      30.662   0.906   6.841  1.00 16.41      C    C  
+HETATM   24  C21 ENM A 302      31.118   1.326   9.140  1.00 16.36      C    C  
+HETATM   25  C22 ENM A 302      30.693   1.391  10.466  1.00 14.56      C    C  
+HETATM   26  C23 ENM A 302      31.064   2.469  11.294  1.00 14.78      C    C  
+HETATM   27  C24 ENM A 302      30.540   2.560  12.603  1.00 13.02      C    C  
+HETATM   28  C25 ENM A 302      29.659   1.579  13.079  1.00 15.11      C    C  
+HETATM   29  C26 ENM A 302      29.295   0.506  12.252  1.00 15.49      C    C  
+HETATM   30  C27 ENM A 302      29.812   0.410  10.952  1.00 13.99      C    C  
+HETATM   31  F1  ENM A 302      28.415  -0.416  12.697  1.00 17.17      C    F  
+HETATM   32  F2  ENM A 302      30.853   3.617  13.396  1.00 18.16      C    F  
+HETATM   33 H011 ENM A 302      26.286   6.732   5.529  1.00 15.74           H  
+HETATM   34 H012 ENM A 302      26.817   7.592   4.091  1.00 15.74           H  
+HETATM   35 HO01 ENM A 302      32.321  -0.327   4.365  1.00 21.94           H  
+HETATM   36 H031 ENM A 302      23.641   4.841   3.279  1.00 14.84           H  
+HETATM   37 H032 ENM A 302      24.066   4.850   4.979  1.00 14.84           H  
+HETATM   38 HC04 ENM A 302      25.800   3.935   2.625  1.00 15.30           H  
+HETATM   39 H061 ENM A 302      28.355   5.711   4.711  1.00 13.59           H  
+HETATM   40 H062 ENM A 302      27.738   5.542   3.098  1.00 13.59           H  
+HETATM   41 H071 ENM A 302      24.050   2.329   3.340  1.00 14.92           H  
+HETATM   42 H072 ENM A 302      24.668   2.307   4.950  1.00 14.92           H  
+HETATM   43 H081 ENM A 302      26.162   1.491   2.396  1.00 15.72           H  
+HETATM   44 H082 ENM A 302      25.588   0.379   3.589  1.00 15.72           H  
+HETATM   45 HC09 ENM A 302      27.084   1.354   5.260  1.00 15.66           H  
+HETATM   46 HC10 ENM A 302      28.049   3.111   2.956  1.00 14.73           H  
+HETATM   47 HC11 ENM A 302      28.547   0.805   2.637  1.00 16.83           H  
+HETATM   48 H131 ENM A 302      30.474   2.204   3.115  1.00 16.27           H  
+HETATM   49 H132 ENM A 302      31.294   2.190   4.625  1.00 16.27           H  
+HETATM   50 H141 ENM A 302      29.206   3.101   5.782  1.00 15.06           H  
+HETATM   51 H142 ENM A 302      29.741   4.126   4.510  1.00 15.06           H  
+HETATM   52 H151 ENM A 302      27.352  -1.217   2.937  1.00 17.62           H  
+HETATM   53 H152 ENM A 302      27.577  -1.218   4.681  1.00 17.62           H  
+HETATM   54 H161 ENM A 302      29.513  -2.062   2.551  1.00 19.32           H  
+HETATM   55 H162 ENM A 302      29.533  -2.425   4.267  1.00 19.32           H  
+HETATM   56 HC17 ENM A 302      30.825  -0.162   2.765  1.00 18.54           H  
+HETATM   57 H181 ENM A 302      27.113   4.783   6.563  1.00 15.05           H  
+HETATM   58 H182 ENM A 302      25.573   4.042   6.286  1.00 15.05           H  
+HETATM   59 H183 ENM A 302      26.988   3.062   6.478  1.00 15.05           H  
+HETATM   60 H191 ENM A 302      29.409  -0.717   6.148  1.00 16.93           H  
+HETATM   61 H192 ENM A 302      28.639   0.802   6.367  1.00 16.93           H  
+HETATM   62 H201 ENM A 302      31.617   0.417   6.649  1.00 16.41           H  
+HETATM   63 H202 ENM A 302      30.803   1.976   6.710  1.00 16.41           H  
+HETATM   64 H211 ENM A 302      31.299   2.350   8.802  1.00 16.36           H  
+HETATM   65 H212 ENM A 302      32.090   0.832   9.136  1.00 16.36           H  
+HETATM   66 HC23 ENM A 302      31.724   3.245  10.933  1.00 14.78           H  
+HETATM   67 HC25 ENM A 302      29.287   1.641  14.079  1.00 15.11           H  
+HETATM   68 HC27 ENM A 302      29.510  -0.419  10.328  1.00 13.99           H  
+CONECT    1    3    9   33   34
+CONECT    2   20   35
+CONECT    3    1    4    5
+CONECT    3    4
+CONECT    4    3
+CONECT    4    3
+CONECT    5    3    7   36   37
+CONECT    6   23   24
+CONECT    7    5    8   10   38
+CONECT    8    7    9   13   21
+CONECT    9    1    8   39   40
+CONECT   10    7   11   41   42
+CONECT   11   10   12   43   44
+CONECT   12   11   13   14   45
+CONECT   13    8   12   17   46
+CONECT   14   12   15   18   47
+CONECT   15   14   16   20   22
+CONECT   16   15   17   48   49
+CONECT   17   13   16   50   51
+CONECT   18   14   19   52   53
+CONECT   19   18   20   54   55
+CONECT   20    2   15   19   56
+CONECT   21    8   57   58   59
+CONECT   22   15   23   60   61
+CONECT   23    6   22   62   63
+CONECT   24    6   25   64   65
+CONECT   25   24   26   30
+CONECT   25   30
+CONECT   26   25   27   66
+CONECT   26   27
+CONECT   27   26   28   32
+CONECT   27   26
+CONECT   28   27   29   67
+CONECT   28   29
+CONECT   29   28   30   31
+CONECT   29   28
+CONECT   30   25   29   68
+CONECT   30   25
+CONECT   31   29
+CONECT   32   27
+CONECT   33    1
+CONECT   34    1
+CONECT   35    2
+CONECT   36    5
+CONECT   37    5
+CONECT   38    7
+CONECT   39    9
+CONECT   40    9
+CONECT   41   10
+CONECT   42   10
+CONECT   43   11
+CONECT   44   11
+CONECT   45   12
+CONECT   46   13
+CONECT   47   14
+CONECT   48   16
+CONECT   49   16
+CONECT   50   17
+CONECT   51   17
+CONECT   52   18
+CONECT   53   18
+CONECT   54   19
+CONECT   55   19
+CONECT   56   20
+CONECT   57   21
+CONECT   58   21
+CONECT   59   21
+CONECT   60   22
+CONECT   61   22
+CONECT   62   23
+CONECT   63   23
+CONECT   64   24
+CONECT   65   24
+CONECT   66   26
+CONECT   67   28
+CONECT   68   30
+END   
